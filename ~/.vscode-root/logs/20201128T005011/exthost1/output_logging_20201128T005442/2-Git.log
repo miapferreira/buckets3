@@ -1,0 +1,464 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /home/terraform/buckets3
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git show --textconv :main.tf
+> git ls-files --stage -- /home/terraform/buckets3/main.tf
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :s3.tf
+> git ls-files --stage -- /home/terraform/buckets3/s3.tf
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :variables.
+> git ls-files --stage -- /home/terraform/buckets3/variables.
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :variables.tf
+> git ls-files --stage -- /home/terraform/buckets3/variables.tf
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :s3.tf
+> git ls-files --stage -- /home/terraform/buckets3/s3.tf
+> git show --textconv :variables.tf
+> git ls-files --stage -- /home/terraform/buckets3/variables.tf
+> git show --textconv :main.tf
+> git ls-files --stage -- /home/terraform/buckets3/main.tf
+> git show --textconv :s3.tf
+> git ls-files --stage -- /home/terraform/buckets3/s3.tf
+> git show --textconv :main.tf
+> git ls-files --stage -- /home/terraform/buckets3/main.tf
+> git show --textconv :policy.json
+> git ls-files --stage -- /home/terraform/buckets3/policy.json
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :variables.tf
+> git ls-files --stage -- /home/terraform/buckets3/variables.tf
+> git show --textconv :s3.tf
+> git ls-files --stage -- /home/terraform/buckets3/s3.tf
+> git show --textconv :policy.json
+> git ls-files --stage -- /home/terraform/buckets3/policy.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :s3.tf
+> git ls-files --stage -- /home/terraform/buckets3/s3.tf
+> git show --textconv :variables.tf
+> git ls-files --stage -- /home/terraform/buckets3/variables.tf
+> git show --textconv :output.tf
+> git ls-files --stage -- /home/terraform/buckets3/output.tf
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :main.tf
+> git ls-files --stage -- /home/terraform/buckets3/main.tf
+> git show --textconv :variables.tf
+> git ls-files --stage -- /home/terraform/buckets3/variables.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :main.tf
+> git ls-files --stage -- /home/terraform/buckets3/main.tf
+> git show --textconv :output.tf
+> git ls-files --stage -- /home/terraform/buckets3/output.tf
+> git show --textconv :main.tf
+> git ls-files --stage -- /home/terraform/buckets3/main.tf
+> git show --textconv :output.tf
+> git ls-files --stage -- /home/terraform/buckets3/output.tf
+> git show --textconv :policy.json
+> git ls-files --stage -- /home/terraform/buckets3/policy.json
+> git show --textconv :output.tf
+> git ls-files --stage -- /home/terraform/buckets3/output.tf
+> git show --textconv :main.tf
+> git ls-files --stage -- /home/terraform/buckets3/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :variables.tf
+> git ls-files --stage -- /home/terraform/buckets3/variables.tf
+> git show --textconv :output.tf
+> git ls-files --stage -- /home/terraform/buckets3/output.tf
+> git show --textconv :main.tf
+> git ls-files --stage -- /home/terraform/buckets3/main.tf
+> git show --textconv :policy.json
+> git ls-files --stage -- /home/terraform/buckets3/policy.json
+> git show --textconv :variables.tf
+> git ls-files --stage -- /home/terraform/buckets3/variables.tf
+> git show --textconv :s3.tf
+> git ls-files --stage -- /home/terraform/buckets3/s3.tf
+> git show --textconv :variables.tf
+> git ls-files --stage -- /home/terraform/buckets3/variables.tf
+> git show --textconv :s3.tf
+> git ls-files --stage -- /home/terraform/buckets3/s3.tf
+> git show --textconv :policy.json
+> git ls-files --stage -- /home/terraform/buckets3/policy.json
+> git show --textconv :output.tf
+> git ls-files --stage -- /home/terraform/buckets3/output.tf
+> git show --textconv :variables.tf
+> git ls-files --stage -- /home/terraform/buckets3/variables.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :main.tf
+> git ls-files --stage -- /home/terraform/buckets3/main.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :policy.json
+> git ls-files --stage -- /home/terraform/buckets3/policy.json
+> git show --textconv :main.tf
+> git ls-files --stage -- /home/terraform/buckets3/main.tf
+> git show --textconv :variables.tf
+> git ls-files --stage -- /home/terraform/buckets3/variables.tf
+> git show --textconv :s3.tf
+> git ls-files --stage -- /home/terraform/buckets3/s3.tf
+> git show --textconv :data.tf
+> git ls-files --stage -- /home/terraform/buckets3/data.tf
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git check-ignore -v -z --stdin
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :policy.json
+> git ls-files --stage -- /home/terraform/buckets3/policy.json
+> git show --textconv :polices/policy.json
+> git ls-files --stage -- /home/terraform/buckets3/polices/policy.json
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :s3.tf
+> git ls-files --stage -- /home/terraform/buckets3/s3.tf
+> git show --textconv :polices/policy.json
+> git ls-files --stage -- /home/terraform/buckets3/polices/policy.json
+> git show --textconv :.gitignore
+> git ls-files --stage -- /home/terraform/buckets3/.gitignore
+> git cat-file -s 7a3e2fd0945d0099d4f7604518b7e863c57069c0
+> git show --textconv :main.tf
+> git ls-files --stage -- /home/terraform/buckets3/main.tf
+> git show --textconv :s3.tf
+> git ls-files --stage -- /home/terraform/buckets3/s3.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :variables.tf
+> git ls-files --stage -- /home/terraform/buckets3/variables.tf
+> git show --textconv :s3.tf
+> git ls-files --stage -- /home/terraform/buckets3/s3.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git check-ignore -v -z --stdin
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv :variables.tf
+> git ls-files --stage -- /home/terraform/buckets3/variables.tf
+> git show --textconv :output.tf
+> git ls-files --stage -- /home/terraform/buckets3/output.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/terraform/buckets3/output.tf
+> git cat-file -s 6311b2a95b6bae4fab4f06bd4e088cb5c9d69da4
+> git show --textconv :output.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git ls-files --stage -- /home/terraform/buckets3/output.tf
+> git rev-list --left-right main...refs/remotes/origin/main
+> git cat-file -s 6311b2a95b6bae4fab4f06bd4e088cb5c9d69da4
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git show --textconv :output.tf
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/terraform/buckets3/output.tf
+> git symbolic-ref --short HEAD
+> git cat-file -s 6311b2a95b6bae4fab4f06bd4e088cb5c9d69da4
+> git rev-parse master
+> git show --textconv :output.tf
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

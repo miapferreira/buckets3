@@ -1,0 +1,9 @@
+[2020-11-28 00:50:15.079] [sharedprocess] [info] main {"machineId":"22aa242dd48fc766da362bc9af71d1c9a47fa3c6cda3dc98b0d49da031aac41a","windowId":2}
+[2020-11-28 00:50:15.125] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/terraform/buckets3/~/.vscode-root/User/snippets'
+[2020-11-28 00:50:17.525] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2020-11-28 00:50:21.023] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker undefined
+[2020-11-28 00:50:21.503] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ms-azuretools.vscode-docker-1.8.1: ms-azuretools.vscode-docker
+[2020-11-28 00:50:21.503] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-azuretools.vscode-docker-1.8.1
+[2020-11-28 00:50:21.515] [sharedprocess] [info] Installation completed. ms-azuretools.vscode-docker
+[2020-11-28 00:50:21.559] [sharedprocess] [info] Extensions installed successfully: ms-azuretools.vscode-docker
+[2020-11-28 00:50:55.092] [sharedprocess] [info] Starting to clean up unused language packs.
