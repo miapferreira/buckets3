@@ -418,3 +418,47 @@ Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/
 > git ls-files --stage -- /home/terraform/buckets3/variables.tf
 > git show --textconv :output.tf
 > git ls-files --stage -- /home/terraform/buckets3/output.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/terraform/buckets3/output.tf
+> git cat-file -s 6311b2a95b6bae4fab4f06bd4e088cb5c9d69da4
+> git show --textconv :output.tf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git rev-list --left-right main...refs/remotes/origin/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git ls-files --stage -- /home/terraform/buckets3/output.tf
+> git rev-list --left-right main...refs/remotes/origin/main
+> git cat-file -s 6311b2a95b6bae4fab4f06bd4e088cb5c9d69da4
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git show --textconv :output.tf
+Warning: Failed to watch ref '/home/terraform/buckets3/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/terraform/buckets3/output.tf
+> git symbolic-ref --short HEAD
+> git cat-file -s 6311b2a95b6bae4fab4f06bd4e088cb5c9d69da4
+> git rev-parse master
+> git show --textconv :output.tf
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

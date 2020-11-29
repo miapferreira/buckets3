@@ -1,0 +1,59 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /home/terraform/buckets3
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :output.tf
+> git ls-files --stage -- /home/terraform/buckets3/output.tf
+> git cat-file -s 6311b2a95b6bae4fab4f06bd4e088cb5c9d69da4
+> git check-ignore -v -z --stdin
+> git show --textconv :main.tf
+> git ls-files --stage -- /home/terraform/buckets3/main.tf
+> git cat-file -s e433498c3cfe6564352ef00b9ae4721859242751
+> git show --textconv :output.tf
+> git ls-files --stage -- /home/terraform/buckets3/output.tf
+> git cat-file -s 6311b2a95b6bae4fab4f06bd4e088cb5c9d69da4
+> git show --textconv :s3.tf
+> git ls-files --stage -- /home/terraform/buckets3/s3.tf
+> git cat-file -s 1c15aad1f57fe42a407eb20701e31349592ca518
+> git show --textconv :variables.tf
+> git ls-files --stage -- /home/terraform/buckets3/variables.tf
+> git cat-file -s 4c9a70c8b1bae9a23cec2bc3f17cb7adc5cfd73d
+> git show --textconv :s3.tf
+> git ls-files --stage -- /home/terraform/buckets3/s3.tf
+> git cat-file -s 1c15aad1f57fe42a407eb20701e31349592ca518
+> git show --textconv :variables.tf
+> git ls-files --stage -- /home/terraform/buckets3/variables.tf
+> git cat-file -s 4c9a70c8b1bae9a23cec2bc3f17cb7adc5cfd73d
+> git show --textconv :s3.tf
+> git ls-files --stage -- /home/terraform/buckets3/s3.tf
+> git cat-file -s 1c15aad1f57fe42a407eb20701e31349592ca518
+> git status -z -u
+> git show --textconv :.gitignore
+> git ls-files --stage -- /home/terraform/buckets3/.gitignore
+> git cat-file -s 7a3e2fd0945d0099d4f7604518b7e863c57069c0
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :output.tf
+> git ls-files --stage -- /home/terraform/buckets3/output.tf
+> git cat-file -s 6311b2a95b6bae4fab4f06bd4e088cb5c9d69da4

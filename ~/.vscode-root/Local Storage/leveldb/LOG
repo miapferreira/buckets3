@@ -1,1 +1,3 @@
-2020/11/28-00:50:11.665 42e1 Reusing MANIFEST /home/terraform/buckets3/~/.vscode-root/Local Storage/leveldb/MANIFEST-000001
+2020/11/29-18:05:57.533 3879 Reusing MANIFEST /home/terraform/buckets3/~/.vscode-root/Local Storage/leveldb/MANIFEST-000001
+2020/11/29-18:05:57.533 3879 Recovering log #3
+2020/11/29-18:05:57.534 3879 Reusing old log /home/terraform/buckets3/~/.vscode-root/Local Storage/leveldb/000003.log 
